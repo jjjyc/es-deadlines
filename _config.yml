@@ -2,12 +2,12 @@ title: ES Conference Deadlines
 description: Countdowns to top ES conference deadlines
 author: Abhishek Das
 
-domain: "ekut-es.github.io"
+domain: "jjjyc.github.io"
 baseurl: "/es-deadlines"
 
 twitter_username: 
 twitter_hashtag: embeddedsystems
-github_username: ekut-es
+github_username: jjjyc
 github_repo: es-deadlines
 
 markdown: kramdown
